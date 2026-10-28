@@ -1,4 +1,4 @@
-# System rezerwacji przestrzeni biurowych _invadespaces_
+# System rezerwacji przestrzeni biurowych _InvadeSpaces_
 
 ## Ogólny opis
 Firma zajmująca się krótko- i długoterminowym wynajmem przetrzeni biurowych potrzebuje oprogramowania wspomagającego
@@ -15,6 +15,7 @@ Podczas wstępnej rozmowy na temat wymagań udało się zanotować tyle:
 
 **AO:**
 - precyzowanie wymagań funkcjonalnych i niefunkcjonalnych
+- opracowywanie specyfikacji systemu
 - architektura warstwowa i jej warianty
 - alternatywne rozwiązania, np. architektura heksagonalna
 

@@ -28,8 +28,8 @@ ___
 ## Aktorzy
 | Aktor                         | Odpowiedzialność                   |
 |-------------------------------|------------------------------------|
-| **gość**                      | przeglądanie kalendarza rezerwacji |
-| **użytkownik zarejestrowany** | ... |
+| gość                      | przeglądanie kalendarza rezerwacji |
+| użytkownik zarejestrowany | ... |
 | ...                           | ... |
 
 ## Słownik
