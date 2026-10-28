@@ -38,7 +38,7 @@ _* Uwaga: spacje dodane dla zwiększenia czytelności; w plikach CSV ich nie ma.
 **PUS:**
 - implementacja endpointu HTTP `/stats` w Go do analizy logów z pliku CSV
 - parsowanie i przetwarzanie danych z wykorzystaniem standardowych bibliotek Go
-- pomiar wydajności usługi i optymalizacja sposobu przetwarzania danychh
+- pomiar wydajności usługi i optymalizacja sposobu przetwarzania danych
 
 
 ## Pliki
